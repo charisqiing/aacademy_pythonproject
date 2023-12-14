@@ -33,3 +33,4 @@ prediction = loaded_model.predict(df)
 
 st.subheader('Prediction')
 st.write(prediction)
+
