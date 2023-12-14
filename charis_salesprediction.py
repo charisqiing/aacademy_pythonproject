@@ -38,7 +38,7 @@ Original file is located at
 # st.subheader('User Input parameters')
 # st.write(df)
 # 
-# loaded_model = pickle.load(open("iris_model.h5", "rb"))
+# loaded_model = pickle.load(open("modelcharis.h5", "rb"))
 # 
 # prediction = loaded_model.predict(df)
 # 
